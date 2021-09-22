@@ -50,7 +50,7 @@ Avant la version python-3.4, la librairie standard offrait une conjonction d'out
 
 +++
 
-Cet ensemble un peu disparate a été remplacé par une **librairie unique `pathlib`**, qui fournit toutes ces fonctionnalités sous un interface unique et moderne, que nous **recommandons** évidemment d'utiliser pour **du nouveau code**.
+Cet ensemble un peu disparate a été remplacé par une **librairie unique `pathlib`**, qui fournit toutes ces fonctionnalités sous une interface unique et moderne, que nous **recommandons** évidemment d'utiliser pour **du nouveau code**.
 
 Avant d'aborder `pathlib`, voici un très bref aperçu de ces trois anciens modules, pour le cas - assez probable - où vous les rencontreriez dans du code existant; tous les noms qui suivent correspondent à des **fonctions** - par opposition à `pathlib` qui, comme nous allons le voir, offre une interface orientée objet:
 
